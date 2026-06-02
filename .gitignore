@@ -1,0 +1,6 @@
+venv/
+**pycache**/
+*.pyc
+placement_ai.db
+.env
+.streamlit/
