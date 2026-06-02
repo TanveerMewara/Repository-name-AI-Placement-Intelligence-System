@@ -1,6 +1,9 @@
 venv/
-**pycache**/
+__pycache__/
 *.pyc
+
 placement_ai.db
-.env
+resume.pdf
+*.db
+
 .streamlit/
